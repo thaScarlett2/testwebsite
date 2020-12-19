@@ -1,12 +1,4 @@
-if( navigator.userAgent.match(/Android/i)
- || navigator.userAgent.match(/webOS/i)
- || navigator.userAgent.match(/iPhone/i)
- || navigator.userAgent.match(/iPad/i)
- || navigator.userAgent.match(/iPod/i)
- || navigator.userAgent.match(/BlackBerry/i)
- || navigator.userAgent.match(/Windows Phone/i)
-alert("Mobile Devices aren't compatible with this page.")
-alert("Please get on pc.")
+
 !function(e){function t(n){if(i[n])return i[n].exports;var o=i[n]={i:n,l:false,exports:{}};return e[n].call(o.exports,o,o.exports,t),o.l=true,o.exports}var i={};return t.m=e,t.c=i,t.d=function(e,i,n){if(!t.o(e,i))Object.defineProperty(e,i,{configurable:false,enumerable:true,get:n})},t.n=function(e){var i=e&&e.__esModule?function t(){return e.default}:function t(){return e};return t.d(i,"a",i),i},t.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},t.p="/Content/BundledScripts/",t(t.s=4729)}({101:function(e,t){var t=void 0,e=void 0;(function(){/*!
  * https://github.com/gilmoreorless/css-background-parser
  * Copyright © 2015 Gilmore Davidson under the MIT license: http://gilmoreorless.mit-license.org/
